@@ -1,0 +1,8 @@
+{
+    "watch": [
+        "index.ts",
+        "public/",
+        "app/"
+    ],
+    "ext": "js, css, md, ts"
+}
